@@ -114,7 +114,7 @@ def main():
     username = "username"
     password = "password"
     # put in each of the primary mobility conductor IPs
-    mobility_conductors = []
+    mobility_conductors = ["1.2.3.4","1.2.2.2"]
     wifi6e_80mhz_channels = [
         "133E",
         "53E",
